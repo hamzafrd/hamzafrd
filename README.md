@@ -4,7 +4,7 @@ Perkenalkan nama saya **Hamza Firdaus**.
 
 Saya seorang **Mahasiswa Teknik Informatika** dan sekarang sedang menempuh Studi Independen di [Dicoding](https://www.dicoding.com/).
 
-Saya adalah seorang Kepala Divisi Android di sebuah organisasi bernama [Sahabat PNJ](https://www.instagram.com/sahabat_pnj/).
+Saya adalah Kepala Divisi Android di sebuah organisasi bernama [Sahabat PNJ](https://www.instagram.com/sahabat_pnj/).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/hamza-firdaus-439709153/)ku ya.
 
