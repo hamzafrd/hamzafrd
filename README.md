@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hallo Semua ! 👋
 
 Perkenalkan nama saya **Hamza Firdaus**.
 
