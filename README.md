@@ -1,12 +1,12 @@
-# Hallo Semua ! 👋
+# Hallo! 👋
 
-Perkenalkan nama saya **Hamza Firdaus**.
+My Name is **Hamza Firdaus**.
 
-Saya seorang **Mahasiswa Teknik Informatika** dan sekarang sedang menempuh Studi Independen di [Dicoding](https://www.dicoding.com/).
+I am an **Informatics Engineering Student at Jakarta State Polytechnic** and currently pursuing Independent Studies at [Dicoding](https://www.dicoding.com/).
 
-Saya adalah Kepala Divisi Android di sebuah organisasi bernama [Sahabat PNJ](https://www.instagram.com/sahabat_pnj/).
+Beside that, i am also the lead of Android Division in an organization called [Sahabat PNJ](https://www.instagram.com/sahabat_pnj/).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/hamza-firdaus-439709153/)ku ya.
+If you are interested, feel free to contact me at [Linkedin](https://www.linkedin.com/in/hamza-firdaus-439709153/). Thanks !
 
 <p align="left">
 <a href="https://github.com/hamzafrd">
