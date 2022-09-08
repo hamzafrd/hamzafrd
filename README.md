@@ -1,4 +1,4 @@
-# Hallo! 👋
+# Hi! 👋
 
 My Name is **Hamza Firdaus**.
 
